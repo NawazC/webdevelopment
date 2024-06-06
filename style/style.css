@@ -1,0 +1,98 @@
+body,ul,li,div,p,span,h1,h2,h3,h4,h5,h6,i,a{
+margin: 0;padding:0;
+} 
+body{
+    font-family: 'Oswald', sans-serif
+}
+.mynav{
+background-color: black!important;
+color: white!important;;
+}
+
+.mynav a{
+color: white!important;
+font-size: 20px;
+padding-right: 30px!important;
+}
+.navbar-toggler{
+    background-color:#08d665!important;
+}
+body{
+    background-color: black;
+}
+.banner-holder{
+background-color: #0b0d0c;
+min-height: 570px;
+}
+
+.banner-text h1{
+font-size: 57px;
+color:white;
+text-transform: uppercase;
+padding: 15px;
+font-weight: bold;
+margin-top: 40px;
+}
+
+.green-color{
+color:#08d665;
+}
+
+.banner-text{
+background-image: url('../img/man.png');
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+.banner-text-p{
+color:white;
+font-size: 20px;
+padding: 20px;
+border-left: 3px solid #08d665;
+margin-left: 15px;
+}
+
+.mybutton{
+background-color: #08d665;
+padding: 10px 20px;
+margin-left: 15px;
+margin-top: 20px;
+border: 3px solid #08d665;;
+}
+
+.mybutton:hover{
+background-color:transparent;
+color:#08d665;
+border: 3px solid #08d665;;
+}
+
+
+/* Content Area*/
+
+.content-area-holder{
+background: #0b0d0c;  
+}
+
+
+.content-text h1{
+font-size: 30px;
+color:white;
+text-transform: uppercase;
+padding: 15px;
+font-weight: bold;
+margin-top: 40px;
+}
+
+.green-color{
+color:#08d665;
+}
+
+
+.content-text-p{
+color:white;
+font-size: 20px;
+padding: 20px;
+}
+
+
+/* Content Area*/
